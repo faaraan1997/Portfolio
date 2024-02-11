@@ -1,0 +1,124 @@
+{
+  "main": {
+    "name": "Faaraan Kazi",
+    "occupation": "Data Scientist",
+    "description": "MS in Artificial Intelligence student in Yeshiva University New York.",
+    "image": "my.jpg",
+    "bio": "My name is Faaraan, I'm a Data Scientist. With 2.3 years of experience at Marsh McLennan and Capgemini, I bring expertise in data science and analytics. My Bachelor's in Computer Science Engineering and P.G. Diploma in Data Science equipped me with skills in Python, MySQL, Power BI, and Tableau. Proficient in predictive modeling and time series forecasting, I've developed interactive dashboards and led teams on various projects. Currently pursuing a Master's in Artificial Intelligence at Yeshiva University, I'm eager to contribute to your organization. ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "faaraankazi@gmail.com",
+    "phone": "+1 201-275-8060",
+    "address": {
+      "street": "PSE 2806, 30 Newport Parkway",
+      "city": "Jersey City",
+      "state": "New Jersey",
+      "zip": "07310"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1FeUo8fsGi0weR7KKzR6doS1i9QwQ24k0/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/faaraan.kazi.9/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/faaraan-kazi-935892191",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_faaraan/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/faaraan1997",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Yeshiva University, New York USA",
+        "degree": "MS in Artificial Intelligence | STEM-Designated Program",
+        "graduated": "Currently Pursuing",
+        "description": "GPA 3.55"
+      }
+    ],
+    "work": [
+      {
+        "company": "Marsh McLennan",
+        "title": "Senior Specialist – Data Scientist ",
+        "years": "October 2022 - August 2023",
+        "description": "Marsh McLennan is a global professional services firm, offering insurance, risk management, reinsurance, and consulting."
+
+      },
+      {
+        "company": "Capgemini",
+        "title": "Daata Science Analyst",
+        "years": "May 2021 - September 2022",
+        "description": "Capgemini is a French multinational information technology (IT) services and consulting company, headquartered in Paris, France."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Machine Learning",
+        "level": "90%"
+      },
+      {
+        "name": "Deep Learning",
+        "level": "85%"
+      },
+      {
+        "name": "NLP, LLMs",
+        "level": "90%"
+      },
+      
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      
+      {
+        "name": "HTML5",
+        "level": "85%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "77%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Cow Stall Detection using Deep Learning",
+        "category": "Investigated the application of object detection methods for precise identification of cow stalls in dairy farms.",
+        "image": "Cow.jpg",
+        "url": "https://www.researchgate.net/publication/375755066_Detection_of_Cow_Stall_Number"
+      },
+      {
+        "title": "Lung Cancer Segmentation Using Resnet-101",
+        "category": "Developed a lung image segmentation model using Resnet-101 architecture for accurate tumor localization",
+        "image": "Lung.jpg",
+        "url": "https://www.researchgate.net/publication/376186058_Lung_Cancer_Segmentation_Using_Resnet_101"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Faaraan is one of the brightest team members that I have worked with.His zeal for learning new things and trying out any difficult problem is commendable. I enjoyed working with him and managing him throughout his tenure in Marsh. Problem solving and analytical thinking are his strengths which makes him an invaluable asset to any team he works with. All the best champ!",
+        "user": "Rituparna Roy Chowdhury (Director at Marsh McLennan)"
+      }
+    ]
+  }
+}
